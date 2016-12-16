@@ -1,0 +1,19 @@
+{
+  "name": "your-elevation",
+  "version": "1.0.0",
+  "description": "Get elevation using Google Map API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express": "*",
+    "@google/maps": "*"
+  },
+  "keywords": [
+    "GeoLocation",
+    "Google"
+  ],
+  "author": "Eyob W",
+  "license": "MIT"
+}
