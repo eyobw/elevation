@@ -7,7 +7,7 @@ app.use(express.static(__dirname+'/client'));
 
 //Google map client for node
 var googleMapsClient = require('@google/maps').createClient({
-  key: 'AIzaSyBPtqfHUVOsKjBUxoIwiO8Ouc9zUEzaVmg'
+  key: ''
 });
 
 
